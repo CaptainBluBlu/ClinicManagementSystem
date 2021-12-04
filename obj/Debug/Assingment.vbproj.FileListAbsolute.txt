@@ -1,0 +1,28 @@
+D:\User\source\repos\Assingment\bin\Debug\EntityFramework.dll
+D:\User\source\repos\Assingment\bin\Debug\EntityFramework.SqlServer.dll
+D:\User\source\repos\Assingment\bin\Debug\System.Data.SQLite.dll
+D:\User\source\repos\Assingment\bin\Debug\System.Data.SQLite.EF6.dll
+D:\User\source\repos\Assingment\bin\Debug\System.Data.SQLite.Linq.dll
+D:\User\source\repos\Assingment\bin\Debug\EntityFramework.xml
+D:\User\source\repos\Assingment\bin\Debug\EntityFramework.SqlServer.xml
+D:\User\source\repos\Assingment\bin\Debug\System.Data.SQLite.xml
+D:\User\source\repos\Assingment\bin\Debug\System.Data.SQLite.dll.config
+D:\User\source\repos\Assingment\obj\Debug\Assingment.Login.resources
+D:\User\source\repos\Assingment\obj\Debug\Assingment.Resources.resources
+D:\User\source\repos\Assingment\obj\Debug\Assingment.Register.resources
+D:\User\source\repos\Assingment\obj\Debug\Assingment.vbproj.GenerateResource.cache
+D:\User\source\repos\Assingment\obj\Debug\Assingment.vbproj.CopyComplete
+D:\User\source\repos\Assingment\obj\Debug\Assingment.Administrator.resources
+D:\User\source\repos\Assingment\obj\Debug\Assingment.Doctor.resources
+D:\User\source\repos\Assingment\obj\Debug\Assingment.Nurse.resources
+D:\User\source\repos\Assingment\bin\Debug\Oceana Clinic.exe.config
+D:\User\source\repos\Assingment\bin\Debug\Oceana Clinic.exe
+D:\User\source\repos\Assingment\bin\Debug\Oceana Clinic.pdb
+D:\User\source\repos\Assingment\bin\Debug\Oceana Clinic.xml
+D:\User\source\repos\Assingment\obj\Debug\Oceana Clinic.exe
+D:\User\source\repos\Assingment\obj\Debug\Oceana Clinic.xml
+D:\User\source\repos\Assingment\obj\Debug\Oceana Clinic.pdb
+D:\User\source\repos\Assingment\obj\Debug\Assingment.Recept.resources
+D:\User\source\repos\Assingment\obj\Debug\Assingment.ReceiptAdmin.resources
+D:\User\source\repos\Assingment\obj\Debug\Assingment.vbproj.AssemblyReference.cache
+D:\User\source\repos\Assingment\obj\Debug\Assingment.vbproj.CoreCompileInputs.cache
