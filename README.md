@@ -1,6 +1,6 @@
 # Clinic Management System
 
-This project was created with VB.net for my assignment in semester 3 in my diploma
+This project was created with VB.net for my assignment in semester 3 in my diploma.
 It is not very polish because I was just beginning to learn how to program code other than html, css, and javascript :grin:
 
 
